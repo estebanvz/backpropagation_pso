@@ -1,11 +1,11 @@
 <div id="top"></div>
 
+[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![GNU v3 License][license-shield]][license-url]
 
 
 
@@ -145,7 +145,7 @@ See the [open issues](https://github.com/estebanvz/backpropagation_pso/issues) f
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU v3 License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -154,7 +154,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Esteban Vilca - [@ds_estebanvz](https://twitter.com/ds_estebanvz) - email@example.com
+Esteban Vilca - [@ds_estebanvz](https://twitter.com/ds_estebanvz) - [esteban.wilfredo.g@gmail.com](mailto:esteban.wilfredo.g@gmail.com)
 
 Project Link: [https://github.com/estebanvz/backpropagation_pso](https://github.com/estebanvz/backpropagation_pso)
 
@@ -164,16 +164,16 @@ Project Link: [https://github.com/estebanvz/backpropagation_pso](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/estebanvz/backpropagation_pso.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/estebanvz/backpropagation_pso.svg
 [contributors-url]: https://github.com/estebanvz/backpropagation_pso/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/estebanvz/backpropagation_pso.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/estebanvz/backpropagation_pso.svg
 [forks-url]: https://github.com/estebanvz/backpropagation_pso/network/members
-[stars-shield]: https://img.shields.io/github/stars/estebanvz/backpropagation_pso.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/estebanvz/backpropagation_pso.svg
 [stars-url]: https://github.com/estebanvz/backpropagation_pso/stargazers
-[issues-shield]: https://img.shields.io/github/issues/estebanvz/backpropagation_pso.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/estebanvz/backpropagation_pso.svg
 [issues-url]: https://github.com/estebanvz/backpropagation_pso/issues
-[license-shield]: https://img.shields.io/github/license/estebanvz/backpropagation_pso.svg?style=for-the-badge
-[license-url]: https://github.com/estebanvz/backpropagation_pso/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[license-shield]: https://img.shields.io/github/license/estebanvz/backpropagation_pso.svg
+[license-url]: https://github.com/estebanvz/backpropagation_pso/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?=linkedin&colorB=888
 [linkedin-url]: https://linkedin.com/in/estebanvz
 [product-screenshot]: images/screenshot.png
