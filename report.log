@@ -1134,3 +1134,40 @@ ValueError: shape mismatch: objects cannot be broadcast to a single shape
   0.47503709  0.12789514 -0.09193214  0.22279358  0.78369814  0.40921187
   0.4462695  -0.21505084  0.44101792 -0.07249371  0.08583225 -0.0394122
   0.01298918 -0.40660378  0.01284558  0.39313813  0.05990736]
+2022-02-14 01:36:35,061 - matplotlib.font_manager - INFO - generated new fontManager
+2022-02-14 01:38:17,178 - pyswarms.single.global_best - INFO - Optimize for 20 iters with {'c1': 0.4, 'c2': 0.6, 'w': 0.4}
+2022-02-14 01:39:20,752 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.026666641235351562, best pos: [-0.41953393  0.54749832  0.23590756 -0.2945479  -0.15224102  0.4951392
+ -0.55311265  0.37144294  0.53739969  0.04191683  0.42241594  0.71723736
+  0.20830629  0.25889091 -0.21711147  0.78482329  0.20198328  0.70939476
+  0.25822282  0.74475207 -0.18218566 -0.43640417  0.07101328  0.36743008
+  0.39365534  0.6733434  -0.46318014  0.2589869   0.34104539  0.12329015
+  0.35560532  0.6213454   0.59856617  0.31936455 -0.67455788]
+2022-02-14 01:40:01,792 - matplotlib.animation - WARNING - MovieWriter pillowwritter unavailable; using Pillow instead.
+2022-02-14 01:40:01,794 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2022-02-14 01:41:35,376 - pyswarms.single.global_best - INFO - Optimize for 40 iters with {'c1': 0.4, 'c2': 0.6, 'w': 0.4}
+2022-02-14 01:43:42,592 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.026666641235351562, best pos: [ 0.36038428  0.27247135  0.25086206  0.10817846 -0.10489477  0.53207833
+  0.17206544  0.34392576  0.46065559 -0.19261365  0.78168719 -0.45890734
+  0.63371349 -0.08661452  0.23596583  0.11816034 -0.10196089 -0.27687552
+ -0.35837204  0.14756877 -0.31441654  0.11563724  0.6428879   0.28154814
+  0.86524887  0.78212011 -0.5341363   0.00194868  0.29724191  0.65628546
+ -0.254606   -0.67157074  0.03702539  0.29201657 -0.19619932]
+2022-02-14 01:43:47,580 - matplotlib.animation - WARNING - MovieWriter pillowwritter unavailable; using Pillow instead.
+2022-02-14 01:43:47,582 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2022-02-14 01:44:54,710 - pyswarms.single.global_best - INFO - Optimize for 40 iters with {'c1': 0.4, 'c2': 0.6, 'w': 0.2}
+2022-02-14 01:46:07,994 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.04000002145767212, best pos: [-0.11523721 -0.35279082  0.06043223  0.04837843  0.06799026  0.51691941
+  0.63011209 -0.0719007  -0.18863177 -0.47022251  0.16788741 -0.08159997
+ -0.01995434  0.40713093 -0.3517494  -0.23522562 -0.26096677  0.16518398
+ -0.51610088  0.22774701  0.61931406  0.55141752 -0.44193875  0.25998158
+ -0.45335905 -0.52732526  0.44489704 -0.15929263  0.09262987  0.04023094
+  0.28954005 -0.70065205 -0.21426294  0.06309276  0.14053823]
+2022-02-14 01:46:28,018 - matplotlib.animation - WARNING - MovieWriter pillowwritter unavailable; using Pillow instead.
+2022-02-14 01:46:28,019 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2022-02-14 01:51:14,825 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.4, 'c2': 0.6, 'w': 0.2}
+2022-02-14 01:56:31,446 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.013333320617675781, best pos: [-0.62612153 -0.61224056 -0.43562803  0.07606928 -0.10958823  0.68140556
+  0.06299227  0.06036576 -0.37424309 -0.27475072  0.58132608  0.07523677
+  0.06340751 -0.05505727  0.26477717  0.46427468 -0.31184495  0.61346808
+  0.36108068  0.00342462  0.33842022  0.41169553 -0.46182608  0.53841864
+  0.08660413 -0.1798752  -0.68540804  0.23862591  0.43195326  0.19970478
+ -0.45628585 -0.28081126 -0.07693351  0.23880235  0.07410529]
+2022-02-14 01:56:43,154 - matplotlib.animation - WARNING - MovieWriter pillowwritter unavailable; using Pillow instead.
+2022-02-14 01:56:43,156 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
