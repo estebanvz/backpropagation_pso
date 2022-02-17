@@ -35,7 +35,7 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -59,13 +59,18 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This project was designed to understand the optimization in the neural networks and how we can use other optimization algorithm rather than backpropagation.
+
+We publish an article on the medium of Semantix about this topic.
+
+[Semantix Medium Article](https://medium.com/semantixbr/evolving-neural-networks-with-particle-swam-optimization-26a261f49d9f)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
